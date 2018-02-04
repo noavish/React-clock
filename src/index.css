@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.FancyBorder {
+  border: blue solid 1px;
+}
